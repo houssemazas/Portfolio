@@ -19,13 +19,12 @@ function Home() {
                   👋🏻
                 </span>
               </h1>
+              <div style={{ padding: 50, textAlign: "left" }}>
 
               <h1 className="heading-name">
                 I'M
                 <strong className="main-name"> AZAZA HOUSSEM</strong>
               </h1>
-
-              <div style={{ padding: 50, textAlign: "left" }}>
                 <Type />
               </div>
             </Col>
